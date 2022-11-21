@@ -150,6 +150,19 @@ const App: () => Node = () => {
                 title: "Dance Harder",
                 artist: "Three Chain Links",
                 audioURI: require('./assets/DanceHarder.mp3')
+              },
+              {
+                identifier: "a_mi_madre",
+                title: "A Mi Madre",
+                audioURI: "redacted",
+                artist: "Caro Luna",
+                duration: 272
+              },{
+                identifier: "belong_to_you_normalized",
+                title: "Belong To You (normalized)",
+                audioURI: "redacted",
+                artist: "Ealot",
+                duration: 194
               }
             ]
           }
